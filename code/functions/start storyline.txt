@@ -1,0 +1,20 @@
+
+
+when you receive "start storyline" {
+	set variable "panel" to 1
+	forever {
+		if ("stage touvh x > 0" is TRUE) AND (stage is touched = TRUE ) then {
+			broadcast next panel
+			change variable "panel" by 1
+			wait 0.5 seconds
+		}
+
+		if ("stage touvh x < 0" is TRUE) AND (stage is touched = TRUE ) then {
+			if "panel > 0" is TRUE then {
+				broadcast previous panel
+				change variable "panel" by -1
+				wait 0.5 seconds
+			}
+		}
+}
+	
