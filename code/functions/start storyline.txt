@@ -1,4 +1,10 @@
+ ---------------------------- Use -----------------------------
 
+This code is located in both scenes "function" and "unit 0". You only have
+to copy and paste (backpack) the object named "storyline" into your scene.
+
+
+ -------------------------- Algorithm --------------------------
 
 when you receive "start storyline" {
 	set variable "panel" to 1
@@ -18,3 +24,22 @@ when you receive "start storyline" {
 		}
 }
 	
+ ------------------------- How to use it -------------------------
+
+1) Add to your project the following code:
+
+when you receive "next panel" {
+	Next Look
+}
+
+when you receive "previous panel" {
+	Previous Look
+}
+
+
+2) Broadcast "sart storyline" from your scene
+
+
+3) Click to the right part from the screen to move to the next panel, or 
+   click to the left to move to the previous one.
+
