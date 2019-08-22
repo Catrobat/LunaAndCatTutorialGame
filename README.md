@@ -10,7 +10,7 @@ The latest release can also be found on the Catrobat community and code reposito
 
 ### Add / Modify Features ###
 
-If you want to send us improvements, e.g., additional translations, then or bug reports, send us an email to [lunaandcat@catrobat.org]
+If you want to send us improvements, e.g., additional translations, then or bug reports, send us an email to [lunaandcat@catrobat.org](mailto:lunaandcat@catrobat.org). 
 
 
 * You can simply remix the project by uploading your improved version via [Luna&Cat](https://catrob.at/luna) to the Catrobat community and repository site.
