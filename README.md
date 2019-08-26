@@ -46,8 +46,8 @@ into the game.
 ## Merging
 
 The code producing the features listed above was merged with code written
-by Sefania Mak.Stefania Maks code is resposible for the feature that ensures
-that users are only able to acess a unit if they have sucessfully completed
+by Sefania Mak. Stefania Maks code is resposible for the feature that ensures
+that users are only able to access a unit if they have sucessfully completed
 the previous unit. A revised version of the dialogue feature was added. It
 is the basis for the option of choosing different languages within the game.
 Stefania Mak also coded the activities.
