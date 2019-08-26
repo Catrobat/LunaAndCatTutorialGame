@@ -1,3 +1,5 @@
+# The Magic Word
+## A LunaAndCatTutorialGame
 
 The Luna&Cat Tutorial Game is being developed using the [Luna&Cat](https://catrob.at/luna) app in the [Catrobat](https://www.catrobat.org/) language. 
 
@@ -14,6 +16,8 @@ If you want to send us improvements, e.g., translations, bug reports, or new fea
 
 * You can simply remix the project by uploading your improved version via [Luna&Cat](https://catrob.at/luna) to the Catrobat community and repository site.
 
+Latest version of the game: https://drive.google.com/open?id=17_oLCEx6B9dZXFK1lLqS493gn8X_mwB_
+
 # Licences #
 
 * AGPL and CC-SA-BY in their latest versions. For details, see http://catrob.at/licensesofuploads
@@ -29,6 +33,7 @@ The final step is to download The Magic Word.
 Another option is to can dowload the (file name) from github and copy it onto your adroid phone.
 In catrobat you can select "import file" from a drop down menu in the right corner of the 
 app.
+Latest version of the game: https://drive.google.com/open?id=17_oLCEx6B9dZXFK1lLqS493gn8X_mwB_
 
 ## Running the tests
 
@@ -44,7 +49,12 @@ every unit of the game.
 
 ## Work left to do 
 
-The dialogue will be available in German, English and Greek. 
+Adding the text of Units 0, 1, 2, 4 and 6 in the "language controller" scene. 
+Based on this file: https://docs.google.com/document/d/1ItitaWzAqJSvqRZuS6hDe5AaZT5WWwsANt6Z1vvS5Ps/edit?usp=sharing
+
+Make the "scene" and "block" images easily translatable.
+
+After the game is completed, the dialogue will be available in German, English and Greek. 
 The option of choosing between these languages will be worked
 into the game.
 
