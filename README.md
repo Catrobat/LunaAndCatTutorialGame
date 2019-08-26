@@ -42,6 +42,11 @@ This is achieved by pressing play.
 
 ## Work done 
 
+ _Every commit is the individual's work, except stating otherwise in the title of the commit_
+
+The Storyline was based on Naomi Pfaff's research on the desired audience, while Stefania Mak
+was in charge of bringing that story to life graphically.
+
 A sequence of images can now be flicked through by touching the screen.
 The correct dialogue is assigned to the correct image. When a unit ends
 the user is taken to an activity.These features were added to
