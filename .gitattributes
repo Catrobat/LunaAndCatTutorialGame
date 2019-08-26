@@ -1,1 +1,2 @@
 *Game.catrobat filter=lfs diff=lfs merge=lfs -text
+*Word.catrobat filter=lfs diff=lfs merge=lfs -text
