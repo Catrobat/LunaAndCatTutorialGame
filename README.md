@@ -3,7 +3,7 @@
 
 In order to access The Magic Word you need to download Catrobat from the App Store. 
 The next step is to make a Catrobat account. When you have the account, you search
-for the user TODO on the Catrobat website. The Magic Word is listed on the user’s page.
+for the user TODO on the Catrobat website. The Magic Word is listed on the userâ€™s page.
 The final step is to download The Magic Word.
 
 Another option is to can dowload the (file name) from github and copy it onto your adroid phone.
@@ -15,14 +15,14 @@ app.
 In Catrobat code can be tested by going into game mode. 
 This is achieved by pressing play.
 
-##Work done 
+## Work done 
 
 A sequence of images can now be flicked through by touching the screen.
 The correct dialogue is assigned to the correct image. When a unit ends
 the user is taken to an activity.These features were added to
 every unit of the game. 
 
-##Work left to do 
+## Work left to do 
 
 The dialogue will be available in German, English and Greek. 
 The option of choosing between these languages will be worked
