@@ -54,8 +54,7 @@ Based on this [Google Doc file](https://docs.google.com/document/d/1ItitaWzAqJSv
 
 * Make the "scene" and "block" images easily translatable.
     * Replace the img files within the project with the already existing img files created.
-        *[Scenes](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/scenes/empty) / [2](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/scenes/empty%20%2B%20scrablle) (add speech bubble on)
-        *[Blocks](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/bricks/Empty_
+        *[Scenes](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/scenes/empty) / [ScenesV2](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/scenes/empty%20%2B%20scrablle) [Blocks](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics/bricks/Empty_) (needs to add a speech bubble on some)
     * Create the same mechanic with the storyline's text over the "language controller" scene.
 
 * After the game is completed, the dialogue will be available in German, English and Greek. 
