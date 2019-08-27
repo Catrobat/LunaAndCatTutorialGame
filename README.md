@@ -17,7 +17,9 @@ The latest release can also be found on the Catrobat community and code reposito
 
 Download Luna&Cat from the App Store and make a Catrobat account. When you have the account, you search
 for the user TODO on the Catrobat website. The Magic Word is listed on the user’s page.
+
 <h4 align="center">or</h4>
+
 Download  the [latest version](https://drive.google.com/open?id=17_oLCEx6B9dZXFK1lLqS493gn8X_mwB_) from GitHub and copy it onto your Android  phone.
 In catrobat you can select "import file" from a drop down menu in the right corner of the 
 app.
