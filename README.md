@@ -33,8 +33,9 @@ If you want to send us improvements, e.g., translations, bug reports, or new fea
 ### Translations
 
 If you are interested in contributing as a translator, download the latest version of the app and:
-* Translate all text included in the "language controller scene".
+* Translate all text included in the "language controller" scene.
 * Translate the names of the scenes and objects of the game.
+
 _The game needs to complete its text mechanism, a translation in its current form is not recommended_
 
 # Work
@@ -43,7 +44,7 @@ _The game needs to complete its text mechanism, a translation in its current for
 
  _Every [commit](https://github.com/Catrobat/LunaAndCatTutorialGame/commits/master) is the individual's work, except stating otherwise in the title of the commit._
 
-The [Storyline](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Storylines) was based on [Naomi Pfaff](https://github.com/npfaff)'s [research](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Research) on the desired audience, while [Stefania Mak](https://github.com/stefaniamak) was in charge of bringing that story to life graphically by [storyboards](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Storyboards) and [digital designs](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics).
+The [Storyline](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Storylines) was based on [Naomi Pfaff](https://github.com/npfaff)'s [research](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Research) on the desired audience, while [Stefania Mak](https://github.com/stefaniamak) was in charge of bringing that story to life graphically by [storyboards](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/story/Storyboards) and [graphics](https://github.com/Catrobat/LunaAndCatTutorialGame/tree/master/graphics).
 
 A sequence of images can now be flicked through by touching the screen.
 The correct dialogue is assigned to the correct image. When a unit ends
@@ -68,7 +69,7 @@ into the game.
 ### Merging
 
 Both [Naomi Pfaff](https://github.com/npfaff) and [Stefania Mak](https://github.com/stefaniamak) contributed on versions of the game. 
-The latest version producing the features listed above was merged with code writte by [Stefania Mak](https://github.com/stefaniamak)'s. 
+The latest version producing the features listed above was merged with code writte by [Stefania Mak](https://github.com/stefaniamak). 
 [Stefania Mak](https://github.com/stefaniamak)'s code is responsible for the feature that ensures that users are only able to access a unit if they have successfully completed the previous unit. 
 A revised version of the dialogue feature was added. It is the basis for the option of choosing different languages within the game. [Stefania Mak](https://github.com/stefaniamak) also coded the activities.
 
