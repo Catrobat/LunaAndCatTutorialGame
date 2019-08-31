@@ -85,9 +85,7 @@ to create a feature and therefore improved the quality of our work.
 In Catrobat code can be tested by going into game mode. 
 This is achieved by pressing play.
 
-# Licences #
-
-* AGPL and CC-SA-BY in their latest versions. For details, see http://catrob.at/licensesofuploads
+# Story
 
 ## Learning Mechanism 
 
@@ -150,13 +148,6 @@ Van Gog, T., Paas, F., & Van Merriënboer, J. J. (2006). Effects of process-orie
 
 Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-problem, and problem-example pairs on novices’ learning. Contemporary Educational Psychology, 36(3), 212-218.
 
+# Licences #
 
-
-
-
-
-
-
-
-
-
+* AGPL and CC-SA-BY in their latest versions. For details, see http://catrob.at/licensesofuploads
