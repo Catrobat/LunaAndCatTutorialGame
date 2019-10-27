@@ -11,7 +11,7 @@ This repository host the .catrobat files for the game and all the used sprites a
 
 The latest release can also be found on the Catrobat community and code repository site via TODO.
 
-# Getting Started #
+# Getting Started # 
 
 ### Installation ###
 
