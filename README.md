@@ -69,7 +69,7 @@ into the game.
 ### Merging
 
 Both [Naomi Pfaff](https://github.com/npfaff) and [Stefania Mak](https://github.com/stefaniamak) contributed on versions of the game. 
-The latest version producing the features listed above was merged with code writte by [Stefania Mak](https://github.com/stefaniamak). 
+The latest version producing the features listed above was merged with code written by [Stefania Mak](https://github.com/stefaniamak). 
 [Stefania Mak](https://github.com/stefaniamak)'s code is responsible for the feature that ensures that users are only able to access a unit if they have successfully completed the previous unit. 
 A revised version of the dialogue feature was added. It is the basis for the option of choosing different languages within the game. [Stefania Mak](https://github.com/stefaniamak) also coded the activities.
 
